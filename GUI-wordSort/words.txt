@@ -1,4 +1,4 @@
-ailurophile tags: beautiful
+ailurophile tags: beautiful noun people
 abulia tags: DFW noun people
 adumbrate tags: verb DFW
 agrapha tags: religion noun DFW
@@ -79,18 +79,18 @@ halcyon tags: beautiful
 harbinger tags: beautiful 
 imbrication tags: beautiful 
 imbroglio tags: beautiful 
-imbue tags: beautiful 
+imbue tags: beautiful verb
 incipient tags: beautiful 
-ineffable tags: beautiful 
-inglenook tags: beautiful 
+ineffable tags: beautiful adjective
+inglenook tags: beautiful noun
 insouciance tags: beautiful 
-inure tags: beautiful 
+inure tags: beautiful verb
 labyrinthine tags: beautiful adjective
-lagniappe tags: beautiful 
-lagoon tags: beautiful 
-languor tags: beautiful 
-lassitude tags: beautiful 
-leisure tags: beautiful 
+lagniappe tags: beautiful noun
+lagoon tags: beautiful noun
+languor tags: beautiful noun
+lassitude tags: beautiful noun
+leisure tags: beautiful noun
 lilt tags: beautiful happy light
 lissome tags: beautiful 
 lithe tags: beautiful people adjective 
@@ -157,16 +157,16 @@ sea tags: nature noun terrain environment blue
 valley tags: nature noun terrain environment 
 volcano tags: nature noun terrain environment red
 wild tags: nature noun terrain environment 
-animal tags: nature noun 
-bird tags: nature noun 
+animal tags: nature noun animal
+bird tags: nature noun animal
 branch tags: nature noun brown
-bush tags: nature noun green
-fish tags: nature noun 
+bush tags: nature noun green 
+fish tags: nature noun animal verb
 flower tags: nature noun 
-fungus tags: nature noun 
+fungus tags: nature noun green dark
 grass tags: nature noun green
-insects tags: nature noun 
-leaf tags: nature noun 
+insects tags: nature noun animal
+leaf tags: nature noun green
 moss tags: nature noun green
 mud tags: nature noun brown
 path tags: nature noun 
@@ -207,7 +207,7 @@ dull tags: adjective sensory descriptive visual people adjective
 ugly tags: adjective sensory descriptive visual people adjective 
 bulky tags: adjective sensory descriptive visual 
 congested tags: adjective sensory descriptive visual 
-swollen tags: adjective sensory descriptive visual 
+swollen tags: adjective sensory descriptive visual large
 irregular tags: adjective sensory descriptive visual 
 tall tags: adjective sensory descriptive visual 
 gigantic tags: adjective sensory descriptive visual 
@@ -2637,7 +2637,7 @@ dare tags: verb noun
 dear tags: adjective noun adverb 
 delay tags: verb noun 
 drunk tags: adjective noun 
-female tags: adjective noun 
+female tags: adjective noun people
 hurry tags: verb noun 
 inevitable tags: adjective noun 
 invite tags: verb noun 
@@ -2656,7 +2656,7 @@ smile tags: verb noun
 spell tags: verb noun 
 stretch tags: verb noun 
 stupid tags: adjective noun 
-tear tags: verb noun 
+tear tags: verb noun blue 
 temporary tags: adjective noun 
 tomorrow tags: adverb noun 
 wake tags: verb noun 
