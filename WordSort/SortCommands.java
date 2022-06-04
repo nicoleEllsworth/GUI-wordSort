@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Branch:             main
-// Main Class File:    WordSortMain.java
+// Main Class File:    consoleApp.java
 // File:               SortWords.java
 // Date:               May 2022
 //
