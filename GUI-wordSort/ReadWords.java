@@ -31,7 +31,7 @@ public class ReadWords {
      * @return void.
      */
     public static void readWords() throws FileNotFoundException {
-        java.io.File file = new java.io.File("GUI-wordSort//words.txt");
+        java.io.File file = new java.io.File("GUI-wordSort\\words.txt");
         try (
                 Scanner scan = new Scanner(file);) {
             while (scan.hasNextLine()) {
