@@ -239,7 +239,7 @@ public class SortCommands {
         SortCommands.sortWordsByMatch();
         String newLine = System.getProperty("line.separator");
         try {
-            FileWriter myWriter = new FileWriter("sortedWords.txt");
+            FileWriter myWriter = new FileWriter("GUI-wordSort\\sortedWords.txt");
             myWriter.write(newLine);
             myWriter.write("Tags: " + currentTagList);
             myWriter.write(newLine);
